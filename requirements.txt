@@ -1,0 +1,7 @@
+slack_bolt
+openai>=1.2.0
+openai-agents>=0.0.14
+notion_client
+uvicorn
+fastapi
+python-dotenv
